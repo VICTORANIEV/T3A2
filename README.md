@@ -1,9 +1,9 @@
 # T3A2
-# Etapa 1. Descripcion del problema.
+# Etapa 01. Descripcion del problema.
 
 Realiza una programa que calcule las horas transcurridas entre dos horas de dos días de la semana. No se tendrán en cuenta los minutos ni los segundos. El día de la semana se puede pedir como un número (del 1 al 7) o como una cadena (de “lunes” a “domingo”). Se debe comprobar que el usuario introduce los datos correctamente y que el segundo día es posterior al primero.
 
-# Etapa 2. Especificaciones.
+# Etapa 02. Especificaciones.
 
 Entrada:
 DiaInicio
@@ -23,4 +23,8 @@ Salida
 |                                                                  |
 +------------------------------------------------------------------+
 
-# Etapa 3. Desarrollo de la solucion.
+# Etapa 03. Diseño de la solucion.
+
+![](https://github.com/VICTORANIEV/T3A2/blob/main/T3A2.diagrama..png)
+
+# Etapa 04. Desarrollo de la solucion.
